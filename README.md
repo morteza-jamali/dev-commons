@@ -9,7 +9,7 @@
   <a aria-label="License" href="https://github.com/morteza-jamali/dev-commons/blob/master/LICENSE">
     <img alt="License" src="https://img.shields.io/npm/l/next.svg?style=for-the-badge&labelColor=000000">
   </a>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.1.0-blue?style=for-the-badge">
+  <img alt="Version" src="https://img.shields.io/badge/version-1.1.0-blue?style=for-the-badge&labelColor=000000">
   <a aria-label="Github logo" href="https://github.com/morteza-jamali/dev-commons">
     <img alt="Github" src="https://img.shields.io/badge/Github-000000.svg?style=for-the-badge&logo=Github&labelColor=000">
   </a>
