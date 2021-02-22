@@ -3,7 +3,6 @@ import Head from "next/head";
 import ReactMarkdown from "react-markdown";
 import gfm from "remark-gfm";
 import readme from "@projectRoot/README.md";
-import styles from "./style";
 import "gfm.css/gfm.css";
 
 const favicons = [
@@ -42,7 +41,12 @@ const App = () => (
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     </Head>
 
-    <div style={styles()}>
+    <div
+      style={{
+        textAlign: "center",
+        padding: "12px",
+      }}
+    >
       <ReactMarkdown
         plugins={[gfm]}
         children={readme}
